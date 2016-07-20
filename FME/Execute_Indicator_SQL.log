@@ -1,0 +1,1071 @@
+2016-07-20 12:39:31|   0.1|  0.1|INFORM|FME 2016.1.0.0 (20160419 - Build 16492 - WIN64)
+2016-07-20 12:39:31|   0.1|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME2016\'
+2016-07-20 12:39:31|   0.1|  0.0|INFORM|FME Database Edition (floating)
+2016-07-20 12:39:31|   0.1|  0.0|INFORM|Temporary License: 316 days left.
+2016-07-20 12:39:31|   0.1|  0.0|INFORM|Machine host name is: MAP3238
+2016-07-20 12:39:31|   0.1|  0.0|INFORM|START - ProcessID: 9420, peak process memory usage: 41928 kB, current process memory usage: 41928 kB
+2016-07-20 12:39:31|   0.1|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME2016\fme.exe' `//map-fs1.ndph.ox.ac.uk/map_data/DHS_Automation/Processing/DHS_Extractions_For_DHS/DHSmapping2016/FME\wb-xlate-1469014751532_12916' `LOG_STANDARDOUT' `YES' `LogCountServerName' `{b51deba7-924c-4b3b-8009-780a3d31e9ef}'
+2016-07-20 12:39:31|   0.2|  0.1|INFORM|Shared folders for formats are : C:\Program Files\FME2016\datasources;C:\Users\zool1301.NDPH\Documents\FME\Formats
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|Shared folders for transformers are : C:\Program Files\FME2016\transformers;C:\Users\zool1301.NDPH\AppData\Roaming\Safe Software\FME\FME Store\Transformers;C:\Users\zool1301.NDPH\Documents\FME\Transformers
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|Shared folders for coordinate systems are : C:\Users\zool1301.NDPH\Documents\FME\CoordinateSystems
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|Shared folders for coordinate system exceptions are : C:\Users\zool1301.NDPH\Documents\FME\CoordinateSystemExceptions
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|Shared folders for coordinate system grid overrides are : C:\Users\zool1301.NDPH\Documents\FME\CoordinateSystemGridOverrides
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : C:\Users\zool1301.NDPH\Documents\FME\CsmapTransformationExceptions
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|Shared folders for transformer categories are : C:\Users\zool1301.NDPH\Documents\FME\TransformerCategories
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|FME Configuration: Reader Keyword is `XLSXR_1'
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|FME Configuration: Reader type is `XLSXR'
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|FME Configuration: Current working folder is `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016\FME'
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp'
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME2016\'
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|FME Configuration: FME_MF_DIR is '\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016\FME/'
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'Execute_Indicator_SQL.fmw'
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2016.1.0.0'
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|System Status: 273.44 GB of disk space available in the FME temporary folder (C:\Users\ZOOL13~1.NDP\AppData\Local\Temp)
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|System Status: 8.00 TB of virtual memory available
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|Operating System: Microsoft Windows 7 64-bit Service Pack 1 (Build 7601)
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|FME Platform: WIN64
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|Locale: en_GB
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|Code Page: 1252  (ANSI - Latin I)
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|FME Configuration: Process limits are 63.95 GB of physical memory and 8.00 TB of address space
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|FME Configuration: Start freeing memory when process usage exceeds 191.84 GB of memory or 8.00 TB of address space
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|FME Configuration: Stop freeing memory when process usage is below 143.88 GB of memory and 6.00 TB of address space
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|Creating writer for format: 
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|Creating reader for format: Microsoft Excel
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `XLSXR'
+2016-07-20 12:39:31|   0.2|  0.0|WARN  |Error prepending '<FME_HOME>/plugins/' to path environment variable.  The addition may not exist, or on Windows the resulting path may be longer than 2047 characters
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|Loaded module 'XLSXR' from file 'C:\Program Files\FME2016\plugins/xlsx.dll'
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|FME API version of module 'XLSXR' matches current internal version (3.8 20160224)
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|Using MultiWriter $Revision$ ( $Date$ ) with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\FME2016\plugins/LogCount_func.dll'
+2016-07-20 12:39:31|   0.2|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.8 20160224)
+2016-07-20 12:39:31|   0.3|  0.0|INFORM|Creating writer for format: FME Feature Store (FFS)
+2016-07-20 12:39:31|   0.3|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:31|   0.3|  0.0|INFORM|Loaded module 'Python_func' from file 'C:\Program Files\FME2016\plugins/Python_func.dll'
+2016-07-20 12:39:31|   0.3|  0.0|INFORM|FME API version of module 'Python_func' matches current internal version (3.8 20160224)
+2016-07-20 12:39:31|   0.3|  0.0|INFORM|Using FME's provided Python interpreter from `C:\Program Files\FME2016\fmepython27\python27.dll'
+2016-07-20 12:39:31|   0.3|  0.0|INFORM|Python version 2.7 loaded successfully
+2016-07-20 12:39:31|   0.4|  0.1|INFORM|Loaded module 'Geometry_func' from file 'C:\Program Files\FME2016\plugins/Geometry_func.dll'
+2016-07-20 12:39:31|   0.4|  0.0|INFORM|FME API version of module 'Geometry_func' matches current internal version (3.8 20160224)
+2016-07-20 12:39:31|   0.5|  0.0|INFORM|Loaded module 'QueryFactory' from file 'C:\Program Files\FME2016\plugins/QueryFactory.dll'
+2016-07-20 12:39:31|   0.5|  0.0|INFORM|FME API version of module 'QueryFactory' matches current internal version (3.8 20160224)
+2016-07-20 12:39:31|   0.5|  0.0|INFORM|StatisticsCalculator_SummaryExploder(ElementFactory): LEAN_AND_MEAN processing enabled
+2016-07-20 12:39:31|   0.5|  0.0|INFORM|FME API version of module 'QueryFactory' matches current internal version (3.8 20160224)
+2016-07-20 12:39:31|   0.5|  0.0|INFORM|Excel Reader: Output cell formulas: 'false'
+2016-07-20 12:39:31|   0.5|  0.0|INFORM|Excel Reader: Output cell comments: 'false'
+2016-07-20 12:39:31|   0.5|  0.0|INFORM|Excel Reader: Force full datetime values: 'false'
+2016-07-20 12:39:31|   0.5|  0.0|INFORM|Excel Reader: Opening dataset '\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016\Country_indicator_details_20160620_ProcessStatus.xlsx'...
+2016-07-20 12:39:31|   0.5|  0.0|INFORM|Excel Reader: Reading sheet 'Country Details'...
+2016-07-20 12:39:31|   0.5|  0.0|INFORM|Excel Reader: Sheet 'Country Details' range: Start Row '2', Start Column '1', End Row '16', End Column '7'
+2016-07-20 12:39:31|   0.5|  0.0|INFORM|Emptying factory pipeline
+2016-07-20 12:39:31|   0.5|  0.0|STATS |Router and Unexpected Input Remover(RoutingFactory): Tested 15 input feature(s), wrote 15 output feature(s): 15 matched merge filters, 15 were routed to output, 0 could not be routed.
+2016-07-20 12:39:31|   0.5|  0.0|STATS |Unexpected Input Remover Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |Indicator-coding (XLSXR_1) Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |Country Details (XLSXR_1) Splitter(TeeFactory): Cloned 15 input feature(s) into 15 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |Country Details_XLSXR_1 Feature Counter -1 4(TeeFactory): Cloned 15 input feature(s) into 15 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |Creator_XML_Creator(CreationFactory): Created 1 features
+2016-07-20 12:39:31|   0.5|  0.0|STATS |Creator_Cloner(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |Creator_CREATED Feature Counter -1 24(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |Creator_CREATED Brancher -1 24(BranchingFactory): Branched 1 input feature -- 1 feature routed to the target factory, and 0 features routed to the fallback factory.
+2016-07-20 12:39:31|   0.5|  0.0|STATS |_CREATOR_BRANCH_TARGET(TeeFactory): Cloned 16 input feature(s) into 16 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |AttributeCreator_2_OUTPUT Feature Counter -1 26(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |AttributeExploder(AttributeFactory): Exploding 12 attributes from 1 feature(s) as 12 resulting feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |AttributeExploder_OUTPUT Feature Counter -1 28(TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |AttributeCreator_3_OUTPUT Feature Counter -1 30(TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |AttributeRemover(TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |AttributeRemover_OUTPUT Feature Counter -1 39(TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |Tester_2(TestFactory): Tested 12 input feature(s) -- 3 feature(s) passed and 9 feature(s) failed
+2016-07-20 12:39:31|   0.5|  0.0|STATS |Tester_2_FAILED Feature Counter -1 34(TeeFactory): Cloned 9 input feature(s) into 9 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|INFORM|Sorter(SortFactory): Starting sorting 9 feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|INFORM|Sorter(SortFactory): Done sorting 9 feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |Sorter(SortFactory): Sorted 9 feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |Sorter_SORTED Feature Counter -1 50(TeeFactory): Cloned 9 input feature(s) into 9 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |StringReplacer_2(TeeFactory): Cloned 9 input feature(s) into 9 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |StringReplacer_2_OUTPUT Feature Counter -1 55(TeeFactory): Cloned 9 input feature(s) into 9 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |Tester_3(TestFactory): Tested 9 input feature(s) -- 4 feature(s) passed and 5 feature(s) failed
+2016-07-20 12:39:31|   0.5|  0.0|STATS |Tester_3_PASSED Feature Counter -1 56(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |Tester_3_FAILED Feature Counter -1 57(TeeFactory): Cloned 5 input feature(s) into 5 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |AttributeCreator_4_OUTPUT Feature Counter -1 51(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |ListBuilder_fme_type_remover(TeeFactory): Cloned 9 input feature(s) into 9 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |ListBuilder(ListFactory): Combined 9 input feature(s) into 1 output feature(s), including 0 singleton(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |ListBuilder_OUTPUT Feature Counter -1 46(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |ParameterFetcher(TeeFactory): Cloned 15 input feature(s) into 15 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |ParameterFetcher_OUTPUT Feature Counter -1 12(TeeFactory): Cloned 15 input feature(s) into 15 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |AttributeCreator_OUTPUT Feature Counter -1 18(TeeFactory): Cloned 15 input feature(s) into 15 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |Tester(TestFactory): Tested 15 input feature(s) -- 10 feature(s) passed and 5 feature(s) failed
+2016-07-20 12:39:31|   0.5|  0.0|STATS |Tester_PASSED Feature Counter -1 19(TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |AttributeFileReader(TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |AttributeFileReader_OUTPUT Feature Counter -1 11(TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |StringReplacer(TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2016-07-20 12:39:31|   0.5|  0.0|STATS |StringReplacer_OUTPUT Feature Counter -1 44(TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2016-07-20 12:39:32|   2.8|  2.3|INFORM|FME Configuration: Named Connection Storage: 'C:\Users\zool1301.NDPH\AppData\Roaming\Safe Software\FME\'
+2016-07-20 12:39:32|   2.8|  0.0|INFORM|FME Configuration: Using Named Connection values from 'DHS Data Readonly' for R_1
+2016-07-20 12:39:32|   2.8|  0.0|INFORM|Creating reader for format: PostgreSQL
+2016-07-20 12:39:32|   2.9|  0.1|INFORM|Trying to find a DYNAMIC plugin for reader named `POSTGRES'
+2016-07-20 12:39:32|   2.9|  0.0|INFORM|Loaded module 'POSTGRES' from file 'C:\Program Files\FME2016\plugins/POSTGIS.dll'
+2016-07-20 12:39:32|   2.9|  0.0|INFORM|FME API version of module 'POSTGRES' matches current internal version (3.8 20160224)
+2016-07-20 12:39:32|   2.9|  0.0|INFORM|Performing query against POSTGRES dataset `DHS Data Readonly'
+2016-07-20 12:39:32|   2.9|  0.0|INFORM|Opening POSTGRES reader for dataset 'dhs_data_pit'
+2016-07-20 12:39:33|   4.0|  1.1|INFORM|PostGIS client encoding: 'UTF8'
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|PostgreSQL 9.5.3 on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 4.8.2-19ubuntu1) 4.8.2, 64-bit
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|Creating writer for format: 
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|Using MultiWriter $Revision$ ( $Date$ ) with keyword `CSV_1_FANOUT' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|Writer output will be ordered by input dataset ordering
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|Writer `CSV_1_FANOUT' of type `MULTI_WRITER' using group definition keyword `MULTI_WRITER_DEF'
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|Creating writer for format: CSV (Comma Separated Value)
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `CSV'
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|Loaded module 'CSV' from file 'C:\Program Files\FME2016\plugins/CSV.dll'
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|Writer `CSV_1' of type `CSV' using group definition keyword `CSV_1_DEF'
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|CSV Writer: Quoting only output fields that contain " or ,
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|CSV Writer: Append to File: no
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|CSV Writer: Output Field Names on First Line: yes
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|CSV Writer: Separator Character: ','
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|CSV Writer: Extension: '.csv'
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|CSV Writer: Quote Output Values: yes
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|CSV Writer: Quote Field Names: no
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|CSV Writer: Line Termination: Windows
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|CSV Writer: Write UTF-8 BOM: yes
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|CSV Writer: Truncating values based on attribute types: yes
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|CSV Writer: Using permissive attribute value conversion: yes
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|Creating writer for format: Tabular Data
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|Using Table Writer $Revision$ ( $Date$ ) to write tabular files to folder `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\BD2014DHS\RH_ANCN_W_N4P'
+2016-07-20 12:39:34|   4.0|  0.0|INFORM|Opened Separated Value File \\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\BD2014DHS\RH_ANCN_W_N4P\BD2014DHS_RH_ANCN_W_N4P_Clusters.csv for output with delimiter `,'
+2016-07-20 12:39:34|   4.2|  0.2|STATS |Storing feature(s) to FME feature store file `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\Execute_Indicator_SQL_123930\inspector.ffs'
+2016-07-20 12:39:34|   4.2|  0.0|STATS |Storing feature(s) to FME feature store file `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\Execute_Indicator_SQL_123930\inspector.fsc'
+2016-07-20 12:39:38|   5.3|  1.0|INFORM|SQLExecutor(QueryFactory): 5 input features read
+2016-07-20 12:39:41|   6.4|  1.1|STATS |FeatureMerger(ReferenceFactory): Total Results: 10 Complete Feature(s), 0 Incomplete Feature(s), 0 Referenced Feature(s), 0 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2016-07-20 12:39:41|   6.4|  0.0|STATS |FeatureMerger MERGED Splitter(TeeFactory): Cloned 10 input feature(s) into 20 output feature(s)
+2016-07-20 12:39:41|   6.4|  0.0|STATS |FeatureMerger_MERGED_0_tY5W/3lY1K0= Feature Counter -1 45(TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2016-07-20 12:39:41|   6.4|  0.0|STATS |FeatureMerger_MERGED_1_Qz7KETrKJsY= Feature Counter -1 95(TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2016-07-20 12:39:41|   6.4|  0.0|INFORM|Successfully closed POSTGRES database reader
+2016-07-20 12:39:41|   6.4|  0.0|INFORM|Successfully closed POSTGRES database reader
+2016-07-20 12:39:41|   6.4|  0.0|STATS |SQLExecutor RESULT Splitter(TeeFactory): Cloned 7553 input feature(s) into 15106 output feature(s)
+2016-07-20 12:39:41|   6.4|  0.0|STATS |SQLExecutor INITIATOR Output Nuker(TeeFactory): Cloned 10 input feature(s) into 0 output feature(s)
+2016-07-20 12:39:41|   6.4|  0.0|STATS |SQLExecutor_RESULT_0_yZOpFWkl7nU= Feature Counter -1 14(TeeFactory): Cloned 7553 input feature(s) into 7553 output feature(s)
+2016-07-20 12:39:41|   6.4|  0.0|STATS |SQLExecutor_RESULT_1_N3993qDbe+E= Feature Counter -1 70(TeeFactory): Cloned 7553 input feature(s) into 7553 output feature(s)
+2016-07-20 12:39:41|   6.4|  0.0|STATS |SQLExecutor_<REJECTED> Feature Counter -1 2147745799(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-07-20 12:39:41|   6.4|  0.0|STATS |StatisticsCalculator_InputProcessor(TeeFactory): Cloned 7553 input feature(s) into 7553 output feature(s)
+2016-07-20 12:39:41|   6.4|  0.0|STATS |StatisticsCalculator_UnneededInputNuker(TeeFactory): Cloned 7553 input feature(s) into 0 output feature(s)
+2016-07-20 12:39:41|   6.4|  0.0|STATS |StatisticsCalculator_CompleteOutputter(SortFactory): Output 0 feature(s) without doing any sorting
+2016-07-20 12:39:41|   6.4|  0.0|INFORM|Processed 2 elements with mode LEAN_AND_MEAN
+2016-07-20 12:39:41|   6.4|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2016-07-20 12:39:41|   6.4|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2016-07-20 12:39:41|   6.4|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:41|   6.4|  0.0|INFORM|Performing query against CSV dataset `http://api.dhsprogram.com/rest/dhs/data/RH_ANCN_W_N4P?f=csv&surveyIds=BD2014DHS'
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014781766_9420\'
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Separator Character: ','
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: File Has Field Names: yes
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Encoding name ''
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Feature type names from file names: no
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Opening dataset 'C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014781766_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|Creating reader for format: Tabular Data
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|Using Tabular Reader $Revision$ ( $Date$ ) to read files from folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014781766_9420'
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014781766_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|Opened Separated Value File C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014781766_9420\RH_ANCN_W_N4P for input with delimiter `,'
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|Skipped line `DataId,Indicator,Value,Precision,DHS_CountryCode,CountryName,SurveyYear,SurveyId,IndicatorId,IndicatorOrder,CharacteristicId,CharacteristicOrder,CharacteristicCategory,CharacteristicLabel,ByVariableId,ByVariableLabel,IsTotal,IsPreferred,SDRID,RegionId,SurveyYearLabel,SurveyType,DenominatorWeighted,DenominatorUnweighted,CILow,CIHigh,Recordcount,Page,TotalPages' in CSV File `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014781766_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Closing dataset 'C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014781766_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014781766_9420\'
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|Performing query against CSV dataset `http://api.dhsprogram.com/rest/dhs/data/RH_ANCN_W_N4P?f=csv&surveyIds=EG2014DHS'
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014782228_9420\'
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Separator Character: ','
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: File Has Field Names: yes
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Encoding name ''
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Feature type names from file names: no
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Opening dataset 'C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014782228_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|Creating reader for format: Tabular Data
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|Using Tabular Reader $Revision$ ( $Date$ ) to read files from folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014782228_9420'
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014782228_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|Opened Separated Value File C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014782228_9420\RH_ANCN_W_N4P for input with delimiter `,'
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|Skipped line `DataId,Indicator,Value,Precision,DHS_CountryCode,CountryName,SurveyYear,SurveyId,IndicatorId,IndicatorOrder,CharacteristicId,CharacteristicOrder,CharacteristicCategory,CharacteristicLabel,ByVariableId,ByVariableLabel,IsTotal,IsPreferred,SDRID,RegionId,SurveyYearLabel,SurveyType,DenominatorWeighted,DenominatorUnweighted,CILow,CIHigh,Recordcount,Page,TotalPages' in CSV File `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014782228_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Closing dataset 'C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014782228_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014782228_9420\'
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:42|   6.4|  0.0|INFORM|Performing query against CSV dataset `http://api.dhsprogram.com/rest/dhs/data/RH_ANCN_W_N4P?f=csv&surveyIds=GH2014DHS'
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014782703_9420\'
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|CSV Reader: Separator Character: ','
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|CSV Reader: File Has Field Names: yes
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|CSV Reader: Encoding name ''
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|CSV Reader: Feature type names from file names: no
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|CSV Reader: Opening dataset 'C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014782703_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|Creating reader for format: Tabular Data
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|Using Tabular Reader $Revision$ ( $Date$ ) to read files from folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014782703_9420'
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014782703_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|Opened Separated Value File C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014782703_9420\RH_ANCN_W_N4P for input with delimiter `,'
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|Skipped line `DataId,Indicator,Value,Precision,DHS_CountryCode,CountryName,SurveyYear,SurveyId,IndicatorId,IndicatorOrder,CharacteristicId,CharacteristicOrder,CharacteristicCategory,CharacteristicLabel,ByVariableId,ByVariableLabel,IsTotal,IsPreferred,SDRID,RegionId,SurveyYearLabel,SurveyType,DenominatorWeighted,DenominatorUnweighted,CILow,CIHigh,Recordcount,Page,TotalPages' in CSV File `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014782703_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|CSV Reader: Closing dataset 'C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014782703_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014782703_9420\'
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|Performing query against CSV dataset `http://api.dhsprogram.com/rest/dhs/data/RH_ANCN_W_N4P?f=csv&surveyIds=KE2014DHS'
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:43|   6.4|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014783195_9420\'
+2016-07-20 12:39:43|   6.5|  0.0|INFORM|CSV Reader: Separator Character: ','
+2016-07-20 12:39:43|   6.5|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
+2016-07-20 12:39:43|   6.5|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
+2016-07-20 12:39:43|   6.5|  0.0|INFORM|CSV Reader: File Has Field Names: yes
+2016-07-20 12:39:43|   6.5|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
+2016-07-20 12:39:43|   6.5|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
+2016-07-20 12:39:43|   6.5|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
+2016-07-20 12:39:43|   6.5|  0.0|INFORM|CSV Reader: Encoding name ''
+2016-07-20 12:39:43|   6.5|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
+2016-07-20 12:39:43|   6.5|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
+2016-07-20 12:39:43|   6.5|  0.0|INFORM|CSV Reader: Feature type names from file names: no
+2016-07-20 12:39:43|   6.5|  0.0|INFORM|CSV Reader: Opening dataset 'C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014783195_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:43|   6.5|  0.0|INFORM|Creating reader for format: Tabular Data
+2016-07-20 12:39:43|   6.5|  0.0|INFORM|Using Tabular Reader $Revision$ ( $Date$ ) to read files from folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014783195_9420'
+2016-07-20 12:39:43|   6.5|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014783195_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:43|   6.5|  0.0|INFORM|Opened Separated Value File C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014783195_9420\RH_ANCN_W_N4P for input with delimiter `,'
+2016-07-20 12:39:43|   6.5|  0.0|INFORM|Skipped line `DataId,Indicator,Value,Precision,DHS_CountryCode,CountryName,SurveyYear,SurveyId,IndicatorId,IndicatorOrder,CharacteristicId,CharacteristicOrder,CharacteristicCategory,CharacteristicLabel,ByVariableId,ByVariableLabel,IsTotal,IsPreferred,SDRID,RegionId,SurveyYearLabel,SurveyType,DenominatorWeighted,DenominatorUnweighted,CILow,CIHigh,Recordcount,Page,TotalPages' in CSV File `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014783195_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:43|   6.5|  0.0|INFORM|CSV Reader: Closing dataset 'C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014783195_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:43|   6.5|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014783195_9420\'
+2016-07-20 12:39:43|   6.5|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2016-07-20 12:39:43|   6.5|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2016-07-20 12:39:43|   6.5|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:43|   6.5|  0.0|INFORM|Performing query against CSV dataset `http://api.dhsprogram.com/rest/dhs/data/RH_ANCN_W_N4P?f=csv&surveyIds=KH2014DHS'
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014783706_9420\'
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Separator Character: ','
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: File Has Field Names: yes
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Encoding name ''
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Feature type names from file names: no
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Opening dataset 'C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014783706_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|Creating reader for format: Tabular Data
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|Using Tabular Reader $Revision$ ( $Date$ ) to read files from folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014783706_9420'
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014783706_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|Opened Separated Value File C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014783706_9420\RH_ANCN_W_N4P for input with delimiter `,'
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|Skipped line `DataId,Indicator,Value,Precision,DHS_CountryCode,CountryName,SurveyYear,SurveyId,IndicatorId,IndicatorOrder,CharacteristicId,CharacteristicOrder,CharacteristicCategory,CharacteristicLabel,ByVariableId,ByVariableLabel,IsTotal,IsPreferred,SDRID,RegionId,SurveyYearLabel,SurveyType,DenominatorWeighted,DenominatorUnweighted,CILow,CIHigh,Recordcount,Page,TotalPages' in CSV File `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014783706_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Closing dataset 'C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014783706_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014783706_9420\'
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|Performing query against CSV dataset `http://api.dhsprogram.com/rest/dhs/data/RH_ANCN_W_N4P?f=csv&surveyIds=LS2014DHS'
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014784193_9420\'
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Separator Character: ','
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: File Has Field Names: yes
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Encoding name ''
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Feature type names from file names: no
+2016-07-20 12:39:44|   6.5|  0.0|INFORM|CSV Reader: Opening dataset 'C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014784193_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:44|   6.6|  0.0|INFORM|Creating reader for format: Tabular Data
+2016-07-20 12:39:44|   6.6|  0.0|INFORM|Using Tabular Reader $Revision$ ( $Date$ ) to read files from folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014784193_9420'
+2016-07-20 12:39:44|   6.6|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014784193_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:44|   6.6|  0.0|INFORM|Opened Separated Value File C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014784193_9420\RH_ANCN_W_N4P for input with delimiter `,'
+2016-07-20 12:39:44|   6.6|  0.0|INFORM|Skipped line `DataId,Indicator,Value,Precision,DHS_CountryCode,CountryName,SurveyYear,SurveyId,IndicatorId,IndicatorOrder,CharacteristicId,CharacteristicOrder,CharacteristicCategory,CharacteristicLabel,ByVariableId,ByVariableLabel,IsTotal,IsPreferred,SDRID,RegionId,SurveyYearLabel,SurveyType,DenominatorWeighted,DenominatorUnweighted,CILow,CIHigh,Recordcount,Page,TotalPages' in CSV File `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014784193_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:44|   6.6|  0.0|INFORM|CSV Reader: Closing dataset 'C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014784193_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:44|   6.6|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014784193_9420\'
+2016-07-20 12:39:44|   6.6|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2016-07-20 12:39:44|   6.6|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2016-07-20 12:39:44|   6.6|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:44|   6.6|  0.0|INFORM|Performing query against CSV dataset `http://api.dhsprogram.com/rest/dhs/data/RH_ANCN_W_N4P?f=csv&surveyIds=RW2015DHS'
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014784689_9420\'
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Separator Character: ','
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: File Has Field Names: yes
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Encoding name ''
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Feature type names from file names: no
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Opening dataset 'C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014784689_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|Creating reader for format: Tabular Data
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|Using Tabular Reader $Revision$ ( $Date$ ) to read files from folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014784689_9420'
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014784689_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|Opened Separated Value File C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014784689_9420\RH_ANCN_W_N4P for input with delimiter `,'
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|Skipped line `DataId,Indicator,Value,Precision,DHS_CountryCode,CountryName,SurveyYear,SurveyId,IndicatorId,IndicatorOrder,CharacteristicId,CharacteristicOrder,CharacteristicCategory,CharacteristicLabel,ByVariableId,ByVariableLabel,IsTotal,IsPreferred,SDRID,RegionId,SurveyYearLabel,SurveyType,DenominatorWeighted,DenominatorUnweighted,CILow,CIHigh,Recordcount,Page,TotalPages' in CSV File `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014784689_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Closing dataset 'C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014784689_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014784689_9420\'
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|Performing query against CSV dataset `http://api.dhsprogram.com/rest/dhs/data/RH_ANCN_W_N4P?f=csv&surveyIds=TD2014DHS'
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014785207_9420\'
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Separator Character: ','
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: File Has Field Names: yes
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Encoding name ''
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Feature type names from file names: no
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Opening dataset 'C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014785207_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|Creating reader for format: Tabular Data
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|Using Tabular Reader $Revision$ ( $Date$ ) to read files from folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014785207_9420'
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014785207_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|Opened Separated Value File C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014785207_9420\RH_ANCN_W_N4P for input with delimiter `,'
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|Skipped line `DataId,Indicator,Value,Precision,DHS_CountryCode,CountryName,SurveyYear,SurveyId,IndicatorId,IndicatorOrder,CharacteristicId,CharacteristicOrder,CharacteristicCategory,CharacteristicLabel,ByVariableId,ByVariableLabel,IsTotal,IsPreferred,SDRID,RegionId,SurveyYearLabel,SurveyType,DenominatorWeighted,DenominatorUnweighted,CILow,CIHigh,Recordcount,Page,TotalPages' in CSV File `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014785207_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Closing dataset 'C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014785207_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014785207_9420\'
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:45|   6.6|  0.0|INFORM|Performing query against CSV dataset `http://api.dhsprogram.com/rest/dhs/data/RH_ANCN_W_N4P?f=csv&surveyIds=TG2013DHS'
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014785719_9420\'
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|CSV Reader: Separator Character: ','
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|CSV Reader: File Has Field Names: yes
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|CSV Reader: Encoding name ''
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|CSV Reader: Feature type names from file names: no
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|CSV Reader: Opening dataset 'C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014785719_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|Creating reader for format: Tabular Data
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|Using Tabular Reader $Revision$ ( $Date$ ) to read files from folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014785719_9420'
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014785719_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|Opened Separated Value File C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014785719_9420\RH_ANCN_W_N4P for input with delimiter `,'
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|Skipped line `DataId,Indicator,Value,Precision,DHS_CountryCode,CountryName,SurveyYear,SurveyId,IndicatorId,IndicatorOrder,CharacteristicId,CharacteristicOrder,CharacteristicCategory,CharacteristicLabel,ByVariableId,ByVariableLabel,IsTotal,IsPreferred,SDRID,RegionId,SurveyYearLabel,SurveyType,DenominatorWeighted,DenominatorUnweighted,CILow,CIHigh,Recordcount,Page,TotalPages' in CSV File `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014785719_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|CSV Reader: Closing dataset 'C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014785719_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|FeatureReader(QueryFactory): 9 input features read
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|Processed 11 elements with mode LEAN_AND_MEAN
+2016-07-20 12:39:46|   6.6|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014785719_9420\'
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|Performing query against CSV dataset `http://api.dhsprogram.com/rest/dhs/data/RH_ANCN_W_N4P?f=csv&surveyIds=ZM2013DHS'
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014786229_9420\'
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Reader: Separator Character: ','
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Reader: File Has Field Names: yes
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Reader: Encoding name ''
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Reader: Feature type names from file names: no
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Reader: Opening dataset 'C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014786229_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|Creating reader for format: Tabular Data
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|Using Tabular Reader $Revision$ ( $Date$ ) to read files from folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014786229_9420'
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014786229_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|Opened Separated Value File C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014786229_9420\RH_ANCN_W_N4P for input with delimiter `,'
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|Skipped line `DataId,Indicator,Value,Precision,DHS_CountryCode,CountryName,SurveyYear,SurveyId,IndicatorId,IndicatorOrder,CharacteristicId,CharacteristicOrder,CharacteristicCategory,CharacteristicLabel,ByVariableId,ByVariableLabel,IsTotal,IsPreferred,SDRID,RegionId,SurveyYearLabel,SurveyType,DenominatorWeighted,DenominatorUnweighted,CILow,CIHigh,Recordcount,Page,TotalPages' in CSV File `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014786229_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Reader: Closing dataset 'C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014786229_9420\RH_ANCN_W_N4P'
+2016-07-20 12:39:46|   6.7|  0.0|STATS |StatisticsCalculator_SummaryCreator(CreationFactory): Created 1 features
+2016-07-20 12:39:46|   6.7|  0.0|STATS |StatisticsCalculator_SummaryExploder(ElementFactory): Split out 10 list elements from 1 input features, using mode LEAN_AND_MEAN
+2016-07-20 12:39:46|   6.7|  0.0|STATS |StatisticsCalculator_SUMMARY Feature Counter -1 93(TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |AttributeManager_3_OUTPUT Feature Counter -1 86(TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\__swizzled_url_1469014786229_9420\'
+2016-07-20 12:39:46|   6.7|  0.0|STATS |FeatureReader_<OTHER> Feature Counter -1 84(TeeFactory): Cloned 19 input feature(s) into 19 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |FeatureReader_<REJECTED> Feature Counter -1 91(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |AttributeManager_2_OUTPUT Feature Counter -1 77(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |AttributeManager_OUTPUT Feature Counter -1 101(TeeFactory): Cloned 19 input feature(s) into 19 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|Sorter_2(SortFactory): Starting sorting 19 feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|Sorter_2(SortFactory): Done sorting 19 feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Tester_4: Failed to evaluate expression '@real64(abs(1-(4494.0/<null>)))'
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Storing feature(s) to FME feature store file `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016\FME\Execute_Indicator_SQL_log.ffs'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Feature Type: `Sampler_SAMPLED'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `API_Denominator_Unweighted' has value `'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `API_Denominator_Weighted' has value `4627'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `API_Value' has value `31.2'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `ByVariableId' has value `14000'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `ByVariableLabel' has value `Three years preceding the survey'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `CIHigh' has value `'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `CILow' has value `'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(64 bit real)            : `Calculated_Denom_Unweighted' has value `4494'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(64 bit real)            : `Calculated_Denom_Weighted' has value `4626.9151169999996'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(64 bit real)            : `Calculated_Numerator_Weighted' has value `1442.485081'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(64 bit real)            : `Calculated_Value' has value `31.175957296041318'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `CharacteristicCategory' has value `Total'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `CharacteristicId' has value `1000'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `CharacteristicLabel' has value `Total'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `CharacteristicOrder' has value `0'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(64 bit integer)         : `Checks_OK' has value `1'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `CountryName' has value `Bangladesh'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `DHS_CountryCode' has value `BD'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `DataId' has value `94122'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(encoded: utf-8)         : `Dataset_ID' has value `BD2014DHS'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `Indicator' has value `Antenatal visits for pregnancy: 4+ visits'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `IndicatorId' has value `RH_ANCN_W_N4P'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `IndicatorOrder' has value `83403040'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `IsPreferred' has value `0'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `IsTotal' has value `1'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `Page' has value `1'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `Precision' has value `1'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `Recordcount' has value `1'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `RegionId' has value `'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `SDRID' has value `1623'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `SurveyId' has value `BD2014DHS'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `SurveyType' has value `DHS'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `SurveyYear' has value `2014'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `SurveyYearLabel' has value `2014'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `TotalPages' has value `1'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(encoded: utf-8)         : `_Indicator' has value `RH_ANCN_W_N4P'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(encoded: utf-8)         : `_api_check_URL' has value `http://api.dhsprogram.com/rest/dhs/data/RH_ANCN_W_N4P?f=csv&surveyIds=BD2014DHS'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(32 bit unsigned integer): `csv_line_number' has value `2'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(32 bit unsigned integer): `csv_number_of_fields' has value `25'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(32 bit unsigned integer): `csv_total_number_of_columns' has value `29'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `csv_type' has value `csv_none'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `fme_basename' has value `RH_ANCN_W_N4P'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `fme_dataset' has value `http://api.dhsprogram.com/rest/dhs/data/RH_ANCN_W_N4P?f=csv&surveyIds=BD2014DHS\RH_ANCN_W_N4P'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `fme_expression_warnings{0}.message' has value `@real64(abs(1-(4494.0/<null>))): '%1': Null, missing, or empty string operand was found in expression.  Result is set to null.'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `fme_expression_warnings{0}.transformerName' has value `Tester_4'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `fme_feature_type' has value `CSV'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(string)                 : `fme_geometry' has value `fme_undefined'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Attribute(entangled: string)      : `fme_type' has value `fme_no_geom'
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |          entangled to [csv_type, csv_type]
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |Geometry Type: Unknown (0)
+2016-07-20 12:39:46|   6.7|  0.0|WARN  |===========================================================================
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Sorter_2(SortFactory): Sorted 19 feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Sorter_2_SORTED Feature Counter -1 103(TeeFactory): Cloned 19 input feature(s) into 19 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Sampler(SamplingFactory): Sampled 10 of 19 feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Sampler_Sampled(TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Sampler_SAMPLED Feature Counter -1 102(TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Tester_4(TestFactory): Tested 10 input feature(s) -- 9 feature(s) passed and 1 feature(s) failed
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Tester_4 PASSED Splitter(TeeFactory): Cloned 9 input feature(s) into 18 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Tester_4_PASSED_0_sOXKatJw+ig= Feature Counter -1 79(TeeFactory): Cloned 9 input feature(s) into 9 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Tester_4_PASSED_1_ngXTKpBi1Hg= Feature Counter -1 89(TeeFactory): Cloned 9 input feature(s) into 9 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Tester_4_FAILED Feature Counter -1 81(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |AttributeCreator_6 OUTPUT Splitter(TeeFactory): Cloned 1 input feature(s) into 2 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |AttributeCreator_6_OUTPUT_0_GyCla7I1Rxg= Feature Counter -1 87(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |AttributeCreator_6_OUTPUT_1_kG9yipENWGo= Feature Counter -1 88(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |WaWaOops_DirCreator(CreationFactory): Created 1 features
+2016-07-20 12:39:46|   6.7|  0.0|STATS |WaWaOops_DirCreatorCleanerUpper(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |WaWaOops_FeatureDirector(TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2016-07-20 12:39:46|   6.7|  0.0|STATS |WaWaOops___FeatureDirector1(TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2016-07-20 12:39:46|   6.7|  0.0|STATS |WaWaOops_VectorSetterUpper(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |WaWaOops___PointCloudThinner(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |WaWaOops_RasterSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|WaWaOops_Recorder(RecorderFactory): Recorded 1 feature(s) to file `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\Execute_Indicator_SQL_123930\inspector.ffs'
+2016-07-20 12:39:46|   6.7|  0.0|STATS |LooksOkToMe_DirCreator(CreationFactory): Created 1 features
+2016-07-20 12:39:46|   6.7|  0.0|STATS |LooksOkToMe_DirCreatorCleanerUpper(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |LooksOkToMe_FeatureDirector(TestFactory): Tested 9 input feature(s) -- 0 feature(s) passed and 9 feature(s) failed
+2016-07-20 12:39:46|   6.7|  0.0|STATS |LooksOkToMe___FeatureDirector1(TestFactory): Tested 9 input feature(s) -- 0 feature(s) passed and 9 feature(s) failed
+2016-07-20 12:39:46|   6.7|  0.0|STATS |LooksOkToMe_VectorSetterUpper(TeeFactory): Cloned 9 input feature(s) into 9 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |LooksOkToMe___PointCloudThinner(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |LooksOkToMe_RasterSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|LooksOkToMe_Recorder(RecorderFactory): Recorded 9 feature(s) to file `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\Execute_Indicator_SQL_123930\inspector.ffs'
+2016-07-20 12:39:46|   6.7|  0.0|STATS |BulkAttributeRenamer(TeeFactory): Cloned 7553 input feature(s) into 7553 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |BulkAttributeRenamer_OUTPUT Feature Counter -1 48(TeeFactory): Cloned 7553 input feature(s) into 7553 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Queries_To_Run_DirCreator(CreationFactory): Created 1 features
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Queries_To_Run_DirCreatorCleanerUpper(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Queries_To_Run_FeatureDirector(TestFactory): Tested 10 input feature(s) -- 0 feature(s) passed and 10 feature(s) failed
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Queries_To_Run___FeatureDirector1(TestFactory): Tested 10 input feature(s) -- 0 feature(s) passed and 10 feature(s) failed
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Queries_To_Run_VectorSetterUpper(TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Queries_To_Run___PointCloudThinner(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Queries_To_Run_RasterSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|Saving spatial index into file 'C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\Execute_Indicator_SQL_123930\inspector.fsi'
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|Finished saving spatial index into file 'C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\Execute_Indicator_SQL_123930\inspector.fsi'
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Stored 20 feature(s) to FME feature store file `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\Execute_Indicator_SQL_123930\inspector.ffs'
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Stored 3 feature(s) to FME feature store file `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\Execute_Indicator_SQL_123930\inspector.fsc'
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|Queries_To_Run_Recorder(RecorderFactory): Recorded 10 feature(s) to file `C:\Users\ZOOL13~1.NDP\AppData\Local\Temp\Execute_Indicator_SQL_123930\inspector.ffs'
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Destination Feature Type Routing Correlator(RoutingFactory): Tested 7563 input feature(s), wrote 7563 output feature(s): 0 matched merge filters, 7563 were routed to output, 0 could not be routed.
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Final Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|STATS |f_109(CreationFactory): Created 1 features
+2016-07-20 12:39:46|   6.7|  0.0|STATS |f_110(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|Feature output statistics for `FFS' writer using keyword `W_1':
+2016-07-20 12:39:46|   6.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:46|   6.7|  0.0|STATS |                               Features Written
+2016-07-20 12:39:46|   6.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:46|   6.7|  0.0|STATS |==============================================================================
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Total Features Written                                                       0
+2016-07-20 12:39:46|   6.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|Feature output statistics for `TABLE_CSV' writer using keyword `W_4':
+2016-07-20 12:39:46|   6.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:46|   6.7|  0.0|STATS |                               Features Written
+2016-07-20 12:39:46|   6.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:46|   6.7|  0.0|STATS |BD2014DHS_RH_ANCN_W_N4P_Clusters (BD2014DHS_RH_ANCN_W_N4P_Clusters)        600
+2016-07-20 12:39:46|   6.7|  0.0|STATS |==============================================================================
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Total Features Written                                                     600
+2016-07-20 12:39:46|   6.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Writer: Closing file `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\BD2014DHS\RH_ANCN_W_N4P\BD2014DHS_RH_ANCN_W_N4P_Clusters.csv'
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|Feature output statistics for `CSV' writer using keyword `CSV_1':
+2016-07-20 12:39:46|   6.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:46|   6.7|  0.0|STATS |                               Features Written
+2016-07-20 12:39:46|   6.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:46|   6.7|  0.0|STATS |BD2014DHS_RH_ANCN_W_N4P_Clusters                                           600
+2016-07-20 12:39:46|   6.7|  0.0|STATS |==============================================================================
+2016-07-20 12:39:46|   6.7|  0.0|STATS |Total Features Written                                                     600
+2016-07-20 12:39:46|   6.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\KH2014DHS\RH_ANCN_W_N4P': Started outputting features
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|Creating writer for format: CSV (Comma Separated Value)
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `CSV'
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|Writer `CSV_1' of type `CSV' using group definition keyword `CSV_1_DEF'
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Writer: Quoting only output fields that contain " or ,
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Writer: Append to File: no
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Writer: Output Field Names on First Line: yes
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Writer: Separator Character: ','
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Writer: Extension: '.csv'
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Writer: Quote Output Values: yes
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Writer: Quote Field Names: no
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Writer: Line Termination: Windows
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Writer: Write UTF-8 BOM: yes
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Writer: Truncating values based on attribute types: yes
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|CSV Writer: Using permissive attribute value conversion: yes
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|Creating writer for format: Tabular Data
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|Using Table Writer $Revision$ ( $Date$ ) to write tabular files to folder `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\KH2014DHS\RH_ANCN_W_N4P'
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|Opened Separated Value File \\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\KH2014DHS\RH_ANCN_W_N4P\KH2014DHS_RH_ANCN_W_N4P_Clusters.csv for output with delimiter `,'
+2016-07-20 12:39:46|   6.7|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\KH2014DHS\RH_ANCN_W_N4P': Writing feature 0 
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|Feature output statistics for `TABLE_CSV' writer using keyword `W_6':
+2016-07-20 12:39:46|   6.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:46|   6.8|  0.0|STATS |                               Features Written
+2016-07-20 12:39:46|   6.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:46|   6.8|  0.0|STATS |KH2014DHS_RH_ANCN_W_N4P_Clusters (KH2014DHS_RH_ANCN_W_N4P_Clusters)        609
+2016-07-20 12:39:46|   6.8|  0.0|STATS |==============================================================================
+2016-07-20 12:39:46|   6.8|  0.0|STATS |Total Features Written                                                     609
+2016-07-20 12:39:46|   6.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|CSV Writer: Closing file `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\KH2014DHS\RH_ANCN_W_N4P\KH2014DHS_RH_ANCN_W_N4P_Clusters.csv'
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|Feature output statistics for `CSV' writer using keyword `CSV_1':
+2016-07-20 12:39:46|   6.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:46|   6.8|  0.0|STATS |                               Features Written
+2016-07-20 12:39:46|   6.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:46|   6.8|  0.0|STATS |KH2014DHS_RH_ANCN_W_N4P_Clusters                                           609
+2016-07-20 12:39:46|   6.8|  0.0|STATS |==============================================================================
+2016-07-20 12:39:46|   6.8|  0.0|STATS |Total Features Written                                                     609
+2016-07-20 12:39:46|   6.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\KH2014DHS\RH_ANCN_W_N4P': done writing 609 feature(s) 
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\TD2014DHS\RH_ANCN_W_N4P': Started outputting features
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|Creating writer for format: CSV (Comma Separated Value)
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `CSV'
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|Writer `CSV_1' of type `CSV' using group definition keyword `CSV_1_DEF'
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|CSV Writer: Quoting only output fields that contain " or ,
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|CSV Writer: Append to File: no
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|CSV Writer: Output Field Names on First Line: yes
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|CSV Writer: Separator Character: ','
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|CSV Writer: Extension: '.csv'
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|CSV Writer: Quote Output Values: yes
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|CSV Writer: Quote Field Names: no
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|CSV Writer: Line Termination: Windows
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|CSV Writer: Write UTF-8 BOM: yes
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|CSV Writer: Truncating values based on attribute types: yes
+2016-07-20 12:39:46|   6.8|  0.0|INFORM|CSV Writer: Using permissive attribute value conversion: yes
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|Creating writer for format: Tabular Data
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|Using Table Writer $Revision$ ( $Date$ ) to write tabular files to folder `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\TD2014DHS\RH_ANCN_W_N4P'
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|Opened Separated Value File \\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\TD2014DHS\RH_ANCN_W_N4P\TD2014DHS_RH_ANCN_W_N4P_Clusters.csv for output with delimiter `,'
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\TD2014DHS\RH_ANCN_W_N4P': Writing feature 0 
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|Feature output statistics for `TABLE_CSV' writer using keyword `W_8':
+2016-07-20 12:39:47|   6.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   6.8|  0.0|STATS |                               Features Written
+2016-07-20 12:39:47|   6.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   6.8|  0.0|STATS |TD2014DHS_RH_ANCN_W_N4P_Clusters (TD2014DHS_RH_ANCN_W_N4P_Clusters)        624
+2016-07-20 12:39:47|   6.8|  0.0|STATS |==============================================================================
+2016-07-20 12:39:47|   6.8|  0.0|STATS |Total Features Written                                                     624
+2016-07-20 12:39:47|   6.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|CSV Writer: Closing file `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\TD2014DHS\RH_ANCN_W_N4P\TD2014DHS_RH_ANCN_W_N4P_Clusters.csv'
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|Feature output statistics for `CSV' writer using keyword `CSV_1':
+2016-07-20 12:39:47|   6.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   6.8|  0.0|STATS |                               Features Written
+2016-07-20 12:39:47|   6.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   6.8|  0.0|STATS |TD2014DHS_RH_ANCN_W_N4P_Clusters                                           624
+2016-07-20 12:39:47|   6.8|  0.0|STATS |==============================================================================
+2016-07-20 12:39:47|   6.8|  0.0|STATS |Total Features Written                                                     624
+2016-07-20 12:39:47|   6.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\TD2014DHS\RH_ANCN_W_N4P': done writing 624 feature(s) 
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\EG2014DHS\RH_ANCN_W_N4P': Started outputting features
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|Creating writer for format: CSV (Comma Separated Value)
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `CSV'
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|Writer `CSV_1' of type `CSV' using group definition keyword `CSV_1_DEF'
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|CSV Writer: Quoting only output fields that contain " or ,
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|CSV Writer: Append to File: no
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|CSV Writer: Output Field Names on First Line: yes
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|CSV Writer: Separator Character: ','
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|CSV Writer: Extension: '.csv'
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|CSV Writer: Quote Output Values: yes
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|CSV Writer: Quote Field Names: no
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|CSV Writer: Line Termination: Windows
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|CSV Writer: Write UTF-8 BOM: yes
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|CSV Writer: Truncating values based on attribute types: yes
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|CSV Writer: Using permissive attribute value conversion: yes
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|Creating writer for format: Tabular Data
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|Using Table Writer $Revision$ ( $Date$ ) to write tabular files to folder `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\EG2014DHS\RH_ANCN_W_N4P'
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|Opened Separated Value File \\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\EG2014DHS\RH_ANCN_W_N4P\EG2014DHS_RH_ANCN_W_N4P_Clusters.csv for output with delimiter `,'
+2016-07-20 12:39:47|   6.8|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\EG2014DHS\RH_ANCN_W_N4P': Writing feature 0 
+2016-07-20 12:39:47|   6.9|  0.1|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\EG2014DHS\RH_ANCN_W_N4P': Writing feature 1000 
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|Feature output statistics for `TABLE_CSV' writer using keyword `W_10':
+2016-07-20 12:39:47|   6.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   6.9|  0.0|STATS |                               Features Written
+2016-07-20 12:39:47|   6.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   6.9|  0.0|STATS |EG2014DHS_RH_ANCN_W_N4P_Clusters (EG2014DHS_RH_ANCN_W_N4P_Clusters)       1760
+2016-07-20 12:39:47|   6.9|  0.0|STATS |==============================================================================
+2016-07-20 12:39:47|   6.9|  0.0|STATS |Total Features Written                                                    1760
+2016-07-20 12:39:47|   6.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|CSV Writer: Closing file `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\EG2014DHS\RH_ANCN_W_N4P\EG2014DHS_RH_ANCN_W_N4P_Clusters.csv'
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|Feature output statistics for `CSV' writer using keyword `CSV_1':
+2016-07-20 12:39:47|   6.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   6.9|  0.0|STATS |                               Features Written
+2016-07-20 12:39:47|   6.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   6.9|  0.0|STATS |EG2014DHS_RH_ANCN_W_N4P_Clusters                                          1760
+2016-07-20 12:39:47|   6.9|  0.0|STATS |==============================================================================
+2016-07-20 12:39:47|   6.9|  0.0|STATS |Total Features Written                                                    1760
+2016-07-20 12:39:47|   6.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\EG2014DHS\RH_ANCN_W_N4P': done writing 1760 feature(s) 
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\GH2014DHS\RH_ANCN_W_N4P': Started outputting features
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|Creating writer for format: CSV (Comma Separated Value)
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `CSV'
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|Writer `CSV_1' of type `CSV' using group definition keyword `CSV_1_DEF'
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|CSV Writer: Quoting only output fields that contain " or ,
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|CSV Writer: Append to File: no
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|CSV Writer: Output Field Names on First Line: yes
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|CSV Writer: Separator Character: ','
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|CSV Writer: Extension: '.csv'
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|CSV Writer: Quote Output Values: yes
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|CSV Writer: Quote Field Names: no
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|CSV Writer: Line Termination: Windows
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|CSV Writer: Write UTF-8 BOM: yes
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|CSV Writer: Truncating values based on attribute types: yes
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|CSV Writer: Using permissive attribute value conversion: yes
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|Creating writer for format: Tabular Data
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|Using Table Writer $Revision$ ( $Date$ ) to write tabular files to folder `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\GH2014DHS\RH_ANCN_W_N4P'
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|Opened Separated Value File \\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\GH2014DHS\RH_ANCN_W_N4P\GH2014DHS_RH_ANCN_W_N4P_Clusters.csv for output with delimiter `,'
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\GH2014DHS\RH_ANCN_W_N4P': Writing feature 0 
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|Feature output statistics for `TABLE_CSV' writer using keyword `W_12':
+2016-07-20 12:39:47|   6.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   6.9|  0.0|STATS |                               Features Written
+2016-07-20 12:39:47|   6.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   6.9|  0.0|STATS |GH2014DHS_RH_ANCN_W_N4P_Clusters (GH2014DHS_RH_ANCN_W_N4P_Clusters)        427
+2016-07-20 12:39:47|   6.9|  0.0|STATS |==============================================================================
+2016-07-20 12:39:47|   6.9|  0.0|STATS |Total Features Written                                                     427
+2016-07-20 12:39:47|   6.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|CSV Writer: Closing file `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\GH2014DHS\RH_ANCN_W_N4P\GH2014DHS_RH_ANCN_W_N4P_Clusters.csv'
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|Feature output statistics for `CSV' writer using keyword `CSV_1':
+2016-07-20 12:39:47|   6.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   6.9|  0.0|STATS |                               Features Written
+2016-07-20 12:39:47|   6.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   6.9|  0.0|STATS |GH2014DHS_RH_ANCN_W_N4P_Clusters                                           427
+2016-07-20 12:39:47|   6.9|  0.0|STATS |==============================================================================
+2016-07-20 12:39:47|   6.9|  0.0|STATS |Total Features Written                                                     427
+2016-07-20 12:39:47|   6.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\GH2014DHS\RH_ANCN_W_N4P': done writing 427 feature(s) 
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\KE2014DHS\RH_ANCN_W_N4P': Started outputting features
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|Creating writer for format: CSV (Comma Separated Value)
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `CSV'
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|Writer `CSV_1' of type `CSV' using group definition keyword `CSV_1_DEF'
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|CSV Writer: Quoting only output fields that contain " or ,
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|CSV Writer: Append to File: no
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|CSV Writer: Output Field Names on First Line: yes
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|CSV Writer: Separator Character: ','
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|CSV Writer: Extension: '.csv'
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|CSV Writer: Quote Output Values: yes
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|CSV Writer: Quote Field Names: no
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|CSV Writer: Line Termination: Windows
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|CSV Writer: Write UTF-8 BOM: yes
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|CSV Writer: Truncating values based on attribute types: yes
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|CSV Writer: Using permissive attribute value conversion: yes
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|Creating writer for format: Tabular Data
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|Using Table Writer $Revision$ ( $Date$ ) to write tabular files to folder `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\KE2014DHS\RH_ANCN_W_N4P'
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|Opened Separated Value File \\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\KE2014DHS\RH_ANCN_W_N4P\KE2014DHS_RH_ANCN_W_N4P_Clusters.csv for output with delimiter `,'
+2016-07-20 12:39:47|   6.9|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\KE2014DHS\RH_ANCN_W_N4P': Writing feature 0 
+2016-07-20 12:39:47|   7.0|  0.1|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\KE2014DHS\RH_ANCN_W_N4P': Writing feature 1000 
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Feature output statistics for `TABLE_CSV' writer using keyword `W_14':
+2016-07-20 12:39:47|   7.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|STATS |                               Features Written
+2016-07-20 12:39:47|   7.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|STATS |KE2014DHS_RH_ANCN_W_N4P_Clusters (KE2014DHS_RH_ANCN_W_N4P_Clusters)       1593
+2016-07-20 12:39:47|   7.1|  0.0|STATS |==============================================================================
+2016-07-20 12:39:47|   7.1|  0.0|STATS |Total Features Written                                                    1593
+2016-07-20 12:39:47|   7.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Closing file `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\KE2014DHS\RH_ANCN_W_N4P\KE2014DHS_RH_ANCN_W_N4P_Clusters.csv'
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Feature output statistics for `CSV' writer using keyword `CSV_1':
+2016-07-20 12:39:47|   7.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|STATS |                               Features Written
+2016-07-20 12:39:47|   7.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|STATS |KE2014DHS_RH_ANCN_W_N4P_Clusters                                          1593
+2016-07-20 12:39:47|   7.1|  0.0|STATS |==============================================================================
+2016-07-20 12:39:47|   7.1|  0.0|STATS |Total Features Written                                                    1593
+2016-07-20 12:39:47|   7.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\KE2014DHS\RH_ANCN_W_N4P': done writing 1593 feature(s) 
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\LS2014DHS\RH_ANCN_W_N4P': Started outputting features
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Creating writer for format: CSV (Comma Separated Value)
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `CSV'
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Writer `CSV_1' of type `CSV' using group definition keyword `CSV_1_DEF'
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Quoting only output fields that contain " or ,
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Append to File: no
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Output Field Names on First Line: yes
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Separator Character: ','
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Extension: '.csv'
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Quote Output Values: yes
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Quote Field Names: no
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Line Termination: Windows
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Write UTF-8 BOM: yes
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Truncating values based on attribute types: yes
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Using permissive attribute value conversion: yes
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Creating writer for format: Tabular Data
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Using Table Writer $Revision$ ( $Date$ ) to write tabular files to folder `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\LS2014DHS\RH_ANCN_W_N4P'
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Opened Separated Value File \\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\LS2014DHS\RH_ANCN_W_N4P\LS2014DHS_RH_ANCN_W_N4P_Clusters.csv for output with delimiter `,'
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\LS2014DHS\RH_ANCN_W_N4P': Writing feature 0 
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Feature output statistics for `TABLE_CSV' writer using keyword `W_16':
+2016-07-20 12:39:47|   7.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|STATS |                               Features Written
+2016-07-20 12:39:47|   7.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|STATS |LS2014DHS_RH_ANCN_W_N4P_Clusters (LS2014DHS_RH_ANCN_W_N4P_Clusters)        397
+2016-07-20 12:39:47|   7.1|  0.0|STATS |==============================================================================
+2016-07-20 12:39:47|   7.1|  0.0|STATS |Total Features Written                                                     397
+2016-07-20 12:39:47|   7.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Closing file `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\LS2014DHS\RH_ANCN_W_N4P\LS2014DHS_RH_ANCN_W_N4P_Clusters.csv'
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Feature output statistics for `CSV' writer using keyword `CSV_1':
+2016-07-20 12:39:47|   7.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|STATS |                               Features Written
+2016-07-20 12:39:47|   7.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|STATS |LS2014DHS_RH_ANCN_W_N4P_Clusters                                           397
+2016-07-20 12:39:47|   7.1|  0.0|STATS |==============================================================================
+2016-07-20 12:39:47|   7.1|  0.0|STATS |Total Features Written                                                     397
+2016-07-20 12:39:47|   7.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\LS2014DHS\RH_ANCN_W_N4P': done writing 397 feature(s) 
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\RW2015DHS\RH_ANCN_W_N4P': Started outputting features
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Creating writer for format: CSV (Comma Separated Value)
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `CSV'
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Writer `CSV_1' of type `CSV' using group definition keyword `CSV_1_DEF'
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Quoting only output fields that contain " or ,
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Append to File: no
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Output Field Names on First Line: yes
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Separator Character: ','
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Extension: '.csv'
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Quote Output Values: yes
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Quote Field Names: no
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Line Termination: Windows
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Write UTF-8 BOM: yes
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Truncating values based on attribute types: yes
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Using permissive attribute value conversion: yes
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Creating writer for format: Tabular Data
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Using Table Writer $Revision$ ( $Date$ ) to write tabular files to folder `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\RW2015DHS\RH_ANCN_W_N4P'
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Opened Separated Value File \\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\RW2015DHS\RH_ANCN_W_N4P\RW2015DHS_RH_ANCN_W_N4P_Clusters.csv for output with delimiter `,'
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\RW2015DHS\RH_ANCN_W_N4P': Writing feature 0 
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Feature output statistics for `TABLE_CSV' writer using keyword `W_18':
+2016-07-20 12:39:47|   7.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|STATS |                               Features Written
+2016-07-20 12:39:47|   7.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|STATS |RW2015DHS_RH_ANCN_W_N4P_Clusters (RW2015DHS_RH_ANCN_W_N4P_Clusters)        492
+2016-07-20 12:39:47|   7.1|  0.0|STATS |==============================================================================
+2016-07-20 12:39:47|   7.1|  0.0|STATS |Total Features Written                                                     492
+2016-07-20 12:39:47|   7.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Closing file `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\RW2015DHS\RH_ANCN_W_N4P\RW2015DHS_RH_ANCN_W_N4P_Clusters.csv'
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Feature output statistics for `CSV' writer using keyword `CSV_1':
+2016-07-20 12:39:47|   7.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|STATS |                               Features Written
+2016-07-20 12:39:47|   7.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|STATS |RW2015DHS_RH_ANCN_W_N4P_Clusters                                           492
+2016-07-20 12:39:47|   7.1|  0.0|STATS |==============================================================================
+2016-07-20 12:39:47|   7.1|  0.0|STATS |Total Features Written                                                     492
+2016-07-20 12:39:47|   7.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\RW2015DHS\RH_ANCN_W_N4P': done writing 492 feature(s) 
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\TG2013DHS\RH_ANCN_W_N4P': Started outputting features
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Creating writer for format: CSV (Comma Separated Value)
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `CSV'
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Writer `CSV_1' of type `CSV' using group definition keyword `CSV_1_DEF'
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Quoting only output fields that contain " or ,
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Append to File: no
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Output Field Names on First Line: yes
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Separator Character: ','
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Extension: '.csv'
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Quote Output Values: yes
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Quote Field Names: no
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Line Termination: Windows
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Write UTF-8 BOM: yes
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Truncating values based on attribute types: yes
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Using permissive attribute value conversion: yes
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Creating writer for format: Tabular Data
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Using Table Writer $Revision$ ( $Date$ ) to write tabular files to folder `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\TG2013DHS\RH_ANCN_W_N4P'
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Opened Separated Value File \\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\TG2013DHS\RH_ANCN_W_N4P\TG2013DHS_RH_ANCN_W_N4P_Clusters.csv for output with delimiter `,'
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\TG2013DHS\RH_ANCN_W_N4P': Writing feature 0 
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Feature output statistics for `TABLE_CSV' writer using keyword `W_20':
+2016-07-20 12:39:47|   7.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|STATS |                               Features Written
+2016-07-20 12:39:47|   7.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|STATS |TG2013DHS_RH_ANCN_W_N4P_Clusters (TG2013DHS_RH_ANCN_W_N4P_Clusters)        330
+2016-07-20 12:39:47|   7.1|  0.0|STATS |==============================================================================
+2016-07-20 12:39:47|   7.1|  0.0|STATS |Total Features Written                                                     330
+2016-07-20 12:39:47|   7.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|CSV Writer: Closing file `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\TG2013DHS\RH_ANCN_W_N4P\TG2013DHS_RH_ANCN_W_N4P_Clusters.csv'
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.1|  0.0|INFORM|Feature output statistics for `CSV' writer using keyword `CSV_1':
+2016-07-20 12:39:47|   7.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.2|  0.0|STATS |                               Features Written
+2016-07-20 12:39:47|   7.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.2|  0.0|STATS |TG2013DHS_RH_ANCN_W_N4P_Clusters                                           330
+2016-07-20 12:39:47|   7.2|  0.0|STATS |==============================================================================
+2016-07-20 12:39:47|   7.2|  0.0|STATS |Total Features Written                                                     330
+2016-07-20 12:39:47|   7.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\TG2013DHS\RH_ANCN_W_N4P': done writing 330 feature(s) 
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\ZM2013DHS\RH_ANCN_W_N4P': Started outputting features
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|Creating writer for format: CSV (Comma Separated Value)
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `CSV'
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|Writer `CSV_1' of type `CSV' using group definition keyword `CSV_1_DEF'
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|CSV Writer: Quoting only output fields that contain " or ,
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|CSV Writer: Append to File: no
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|CSV Writer: Output Field Names on First Line: yes
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|CSV Writer: Separator Character: ','
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|CSV Writer: Extension: '.csv'
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|CSV Writer: Quote Output Values: yes
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|CSV Writer: Quote Field Names: no
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|CSV Writer: Line Termination: Windows
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|CSV Writer: Write UTF-8 BOM: yes
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|CSV Writer: Truncating values based on attribute types: yes
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|CSV Writer: Using permissive attribute value conversion: yes
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|Creating writer for format: Tabular Data
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|Using Table Writer $Revision$ ( $Date$ ) to write tabular files to folder `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\ZM2013DHS\RH_ANCN_W_N4P'
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|Opened Separated Value File \\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\ZM2013DHS\RH_ANCN_W_N4P\ZM2013DHS_RH_ANCN_W_N4P_Clusters.csv for output with delimiter `,'
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\ZM2013DHS\RH_ANCN_W_N4P': Writing feature 0 
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|Feature output statistics for `TABLE_CSV' writer using keyword `W_22':
+2016-07-20 12:39:47|   7.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.2|  0.0|STATS |                               Features Written
+2016-07-20 12:39:47|   7.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.2|  0.0|STATS |ZM2013DHS_RH_ANCN_W_N4P_Clusters (ZM2013DHS_RH_ANCN_W_N4P_Clusters)        721
+2016-07-20 12:39:47|   7.2|  0.0|STATS |==============================================================================
+2016-07-20 12:39:47|   7.2|  0.0|STATS |Total Features Written                                                     721
+2016-07-20 12:39:47|   7.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|CSV Writer: Closing file `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\ZM2013DHS\RH_ANCN_W_N4P\ZM2013DHS_RH_ANCN_W_N4P_Clusters.csv'
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|Feature output statistics for `CSV' writer using keyword `CSV_1':
+2016-07-20 12:39:47|   7.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.2|  0.0|STATS |                               Features Written
+2016-07-20 12:39:47|   7.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.2|  0.0|STATS |ZM2013DHS_RH_ANCN_W_N4P_Clusters                                           721
+2016-07-20 12:39:47|   7.2|  0.0|STATS |==============================================================================
+2016-07-20 12:39:47|   7.2|  0.0|STATS |Total Features Written                                                     721
+2016-07-20 12:39:47|   7.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|MULTI_WRITER: multi_writer_id `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\ZM2013DHS\RH_ANCN_W_N4P': done writing 721 feature(s) 
+2016-07-20 12:39:47|   7.2|  0.0|INFORM|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2016-07-20 12:39:47|   7.3|  0.1|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|Feature output statistics for `MULTI_WRITER' writer using keyword `CSV_1_FANOUT':
+2016-07-20 12:39:47|   7.3|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.3|  0.0|STATS |                               Features Written
+2016-07-20 12:39:47|   7.3|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.3|  0.0|STATS |BD2014DHS_RH_ANCN_W_N4P_Clusters                                           600
+2016-07-20 12:39:47|   7.3|  0.0|STATS |EG2014DHS_RH_ANCN_W_N4P_Clusters                                          1760
+2016-07-20 12:39:47|   7.3|  0.0|STATS |GH2014DHS_RH_ANCN_W_N4P_Clusters                                           427
+2016-07-20 12:39:47|   7.3|  0.0|STATS |KE2014DHS_RH_ANCN_W_N4P_Clusters                                          1593
+2016-07-20 12:39:47|   7.3|  0.0|STATS |KH2014DHS_RH_ANCN_W_N4P_Clusters                                           609
+2016-07-20 12:39:47|   7.3|  0.0|STATS |LS2014DHS_RH_ANCN_W_N4P_Clusters                                           397
+2016-07-20 12:39:47|   7.3|  0.0|STATS |RW2015DHS_RH_ANCN_W_N4P_Clusters                                           492
+2016-07-20 12:39:47|   7.3|  0.0|STATS |TD2014DHS_RH_ANCN_W_N4P_Clusters                                           624
+2016-07-20 12:39:47|   7.3|  0.0|STATS |TG2013DHS_RH_ANCN_W_N4P_Clusters                                           330
+2016-07-20 12:39:47|   7.3|  0.0|STATS |ZM2013DHS_RH_ANCN_W_N4P_Clusters                                           721
+2016-07-20 12:39:47|   7.3|  0.0|STATS |==============================================================================
+2016-07-20 12:39:47|   7.3|  0.0|STATS |Total Features Written                                                    7553
+2016-07-20 12:39:47|   7.3|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': Started outputting features
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|Creating writer for format: CSV (Comma Separated Value)
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `CSV'
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|Writer `CSV_2' of type `CSV' using group definition keyword `CSV_2_DEF'
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|CSV Writer: Quoting only output fields that contain " or ,
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|CSV Writer: Append to File: no
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|CSV Writer: Output Field Names on First Line: yes
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|CSV Writer: Separator Character: ','
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|CSV Writer: Extension: '.csv'
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|CSV Writer: Quote Output Values: yes
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|CSV Writer: Quote Field Names: no
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|CSV Writer: Line Termination: Windows
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|CSV Writer: Write UTF-8 BOM: yes
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|CSV Writer: Truncating values based on attribute types: yes
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|CSV Writer: Using permissive attribute value conversion: yes
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|Creating writer for format: Tabular Data
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|Using Table Writer $Revision$ ( $Date$ ) to write tabular files to folder `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\Checks'
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|Opened Separated Value File \\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\Checks\RH_ANCN_W_N4P.csv for output with delimiter `,'
+2016-07-20 12:39:47|   7.3|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': Writing feature 0 
+2016-07-20 12:39:48|   7.3|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:48|   7.3|  0.0|INFORM|Feature output statistics for `TABLE_CSV' writer using keyword `W_24':
+2016-07-20 12:39:48|   7.3|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:48|   7.3|  0.0|STATS |                               Features Written
+2016-07-20 12:39:48|   7.3|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:48|   7.3|  0.0|STATS |RH_ANCN_W_N4P (RH_ANCN_W_N4P)                                               10
+2016-07-20 12:39:48|   7.3|  0.0|STATS |==============================================================================
+2016-07-20 12:39:48|   7.3|  0.0|STATS |Total Features Written                                                      10
+2016-07-20 12:39:48|   7.3|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:48|   7.3|  0.0|INFORM|CSV Writer: Closing file `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016_out\Checks\RH_ANCN_W_N4P.csv'
+2016-07-20 12:39:48|   7.3|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:48|   7.3|  0.0|INFORM|Feature output statistics for `CSV' writer using keyword `CSV_2':
+2016-07-20 12:39:48|   7.3|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:48|   7.3|  0.0|STATS |                               Features Written
+2016-07-20 12:39:48|   7.3|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:48|   7.3|  0.0|STATS |RH_ANCN_W_N4P                                                               10
+2016-07-20 12:39:48|   7.3|  0.0|STATS |==============================================================================
+2016-07-20 12:39:48|   7.3|  0.0|STATS |Total Features Written                                                      10
+2016-07-20 12:39:48|   7.3|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:48|   7.3|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': done writing 10 feature(s) 
+2016-07-20 12:39:48|   7.3|  0.0|INFORM|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2016-07-20 12:39:48|   7.3|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:48|   7.3|  0.0|STATS |                            Features Read Summary
+2016-07-20 12:39:48|   7.3|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:48|   7.3|  0.0|STATS |Country Details                                                             15
+2016-07-20 12:39:48|   7.3|  0.0|STATS |==============================================================================
+2016-07-20 12:39:48|   7.3|  0.0|STATS |Total Features Read                                                         15
+2016-07-20 12:39:48|   7.3|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:48|   7.3|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:48|   7.3|  0.0|STATS |                           Features Written Summary
+2016-07-20 12:39:48|   7.3|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:48|   7.3|  0.0|STATS |BD2014DHS_RH_ANCN_W_N4P_Clusters                                           600
+2016-07-20 12:39:48|   7.3|  0.0|STATS |EG2014DHS_RH_ANCN_W_N4P_Clusters                                          1760
+2016-07-20 12:39:48|   7.3|  0.0|STATS |GH2014DHS_RH_ANCN_W_N4P_Clusters                                           427
+2016-07-20 12:39:48|   7.3|  0.0|STATS |KE2014DHS_RH_ANCN_W_N4P_Clusters                                          1593
+2016-07-20 12:39:48|   7.3|  0.0|STATS |KH2014DHS_RH_ANCN_W_N4P_Clusters                                           609
+2016-07-20 12:39:48|   7.3|  0.0|STATS |LS2014DHS_RH_ANCN_W_N4P_Clusters                                           397
+2016-07-20 12:39:48|   7.3|  0.0|STATS |RH_ANCN_W_N4P                                                               10
+2016-07-20 12:39:48|   7.3|  0.0|STATS |RW2015DHS_RH_ANCN_W_N4P_Clusters                                           492
+2016-07-20 12:39:48|   7.3|  0.0|STATS |TD2014DHS_RH_ANCN_W_N4P_Clusters                                           624
+2016-07-20 12:39:48|   7.3|  0.0|STATS |TG2013DHS_RH_ANCN_W_N4P_Clusters                                           330
+2016-07-20 12:39:48|   7.3|  0.0|STATS |ZM2013DHS_RH_ANCN_W_N4P_Clusters                                           721
+2016-07-20 12:39:48|   7.3|  0.0|STATS |==============================================================================
+2016-07-20 12:39:48|   7.3|  0.0|STATS |Total Features Written                                                    7563
+2016-07-20 12:39:48|   7.3|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-07-20 12:39:48|   7.3|  0.0|INFORM|Excel Reader: Closing dataset '\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016\Country_indicator_details_20160620_ProcessStatus.xlsx'...
+2016-07-20 12:39:48|   7.3|  0.0|INFORM|Translation was SUCCESSFUL with 55 warning(s) (7563 feature(s) output)
+2016-07-20 12:39:48|   7.3|  0.0|STATS |Stored 1 feature(s) to FME feature store file `\\map-fs1.ndph.ox.ac.uk\map_data\DHS_Automation\Processing\DHS_Extractions_For_DHS\DHSmapping2016\FME\Execute_Indicator_SQL_log.ffs'
+2016-07-20 12:39:48|   7.3|  0.0|INFORM|FME Session Duration: 17.2 seconds. (CPU: 6.3s user, 0.9s system)
+2016-07-20 12:39:48|   7.3|  0.0|INFORM|END - ProcessID: 9420, peak process memory usage: 1887060 kB, current process memory usage: 1795140 kB
