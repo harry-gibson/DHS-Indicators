@@ -6,7 +6,7 @@
 
 -- Not sure how static the definition of "improved" really is!!
 
-select sum(denom_nonwt) d_nw, sum(denom_wt) d_w, sum(num_wt) / sum(denom_wt) val from (
+--select sum(denom_nonwt) d_nw, sum(denom_wt) d_w, sum(num_wt) / sum(denom_wt) val from (
 
 SELECT
 -- PERMA-BUMPH - same for all indicator extractions
@@ -36,14 +36,22 @@ h0.hv001 as clusterid
 -- NUMERATOR (UNWEIGHTED)	
 , SUM(
 	CASE WHEN 
-		h2.hv201::Integer IN (11,12,13,21,31,41,51,71,72)
+		(h2.hv201::Integer IN (11,12,13,14,21,31,41,51,71)
+		OR 
+		-- 72 (plastic bag of water) wasn't counted as modern at the time of the togo survey
+		h2.hv201::Integer = 72 and not h0.surveyid::Integer = 328
+		)
 		
 	THEN h0.hv012::Integer ELSE 0 END) as Num_NonWt
 	
 -- NUMERATOR (WEIGHTED)	
 , SUM(	
 	CASE WHEN 
-		h2.hv201::Integer IN (11,12,13,21,31,41,51,71,72)
+		(h2.hv201::Integer IN (11,12,13,14,21,31,41,51,71)
+		OR 
+		-- 72 (plastic bag of water) wasn't counted as modern at the time of the togo survey
+		h2.hv201::Integer = 72 and not h0.surveyid::Integer = 328
+		)
 		
 	THEN h0.hv012::Integer * (h0.hv005::Float / 1000000) ELSE 0 END) as Num_Wt
 
@@ -65,9 +73,9 @@ LEFT OUTER JOIN
 	) locs
 ON h0.hv001::Integer = locs.clusterid AND h0.surveyid::Integer = locs.surveyid
 
---WHERE h0.surveyid='{SURVEYID}'
-WHERE h0.surveyid='468'
+WHERE h0.surveyid='{SURVEYID}'
+--WHERE h0.surveyid='328'
 GROUP BY h0.hv001
 ORDER BY h0.hv001::Integer
 
-)clust
+--)clust

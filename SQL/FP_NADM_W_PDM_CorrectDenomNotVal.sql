@@ -7,11 +7,10 @@
 -- I cannot make the absolute figures match those in the API for any survey, they are often
 -- different by a factor of 2 or more. However the percentage figures do all match to within 0.1%!
 -- So I reckon something is wrong with the data in the API.
+-- This version demonstrates that we can get "correct" denominators, but then the calculated values (hence 
+-- numerators) don't match. 
 
--- Clara has confirmed that the denoms in the API are not the ones used to calculate the indicator,
--- which may be be described as "interesting" or as "misleading"...
-
---select sum(denom_nonwt) d_nw, sum(denom_wt) d_w, sum(num_wt) / sum(denom_wt) val from (
+select sum(denom_nonwt) d_nw, sum(denom_wt) d_w, sum(num_wt) / sum(denom_wt) val from (
 
 SELECT
 -- PERMA-BUMPH - same for all indicator extractions
@@ -30,7 +29,10 @@ h0.hv001 as clusterid
 		--True
 		AND 
 		(
-			r61_fert.v626a::Integer in (1,2,3,4) -- has need for contraception whether met or not
+			-- selecting rows with any answer in the "unmet need" question, including the answers
+			-- that don't imply a need whether met or not, gives denominators that match the 
+			-- DHS API!!
+			r61_fert.v626a::Integer in (1,2,3,4,7,8,9,99,0)
 		)
 	THEN 1 ELSE 0 END) as Denom_NonWt
 
@@ -39,10 +41,12 @@ h0.hv001 as clusterid
 	CASE WHEN 
 		r51_mge.v501::Integer in (1,2) -- married
 		AND 
-			(
-			
-			r61_fert.v626a::Integer in (1,2,3,4) -- has need for contraception whether met or not
-			)
+		(
+			-- selecting rows with any answer in the "unmet need" question, including the answers
+			-- that don't imply a need whether met or not, gives denominators that match the 
+			-- DHS API!!
+			r61_fert.v626a::Integer in (1,2,3,4,7,8,9,99,0)
+		)
 	THEN r01_wmn.v005::Float / 1000000 ELSE 0 END) as Denom_Wt
 
 -- NUMERATOR (UNWEIGHTED)	
@@ -50,14 +54,15 @@ h0.hv001 as clusterid
 	CASE WHEN 
 		r51_mge.v501::Integer in (1,2)
 		AND
-		r61_fert.v626a::Integer in (1,2,3,4)
+		r61_fert.v626a::Integer in (1,2,3,4,7,8,9,99,0)
 		AND
 			-- married and using modern contraception
 			(
 			r32_cont.v364::Integer in (1)
 			OR
-			r32_cont.v312::Integer in (1,2,3,4,5,6,7,11,13,14,15,17,18,19)  
-			)
+			r32_cont.v312::Integer in (1,2,3,4,5,6,7,11,13,14,15,17,18,19) 
+			) 
+			
 	THEN 1 ELSE 0 END) as Num_NonWt
 	
 -- NUMERATOR (WEIGHTED)	
@@ -65,7 +70,7 @@ h0.hv001 as clusterid
 	CASE WHEN 
 		r51_mge.v501::Integer in (1,2)
 		AND
-		r61_fert.v626a::Integer in (1,2,3,4)
+		r61_fert.v626a::Integer in (1,2,3,4,7,8,9,0,99) 
 		AND
 			-- married and using modern contraception
 			(
@@ -73,6 +78,7 @@ h0.hv001 as clusterid
 			OR
 			r32_cont.v312::Integer in (1,2,3,4,5,6,7,11,13,14,15,17,18,19)  
 			)
+			
 	THEN r01_wmn.v005::Float / 1000000 ELSE 0 END) as Num_Wt
 
 FROM
@@ -103,10 +109,10 @@ LEFT OUTER JOIN
 	) locs
 ON h0.hv001::Integer = locs.clusterid AND h0.surveyid::Integer = locs.surveyid
 
-WHERE h0.surveyid='{SURVEYID}'
---WHERE h0.surveyid='468'
+--WHERE h0.surveyid='{SURVEYID}'
+WHERE h0.surveyid='468'
 	
 GROUP BY h0.hv001
 ORDER BY h0.hv001::Integer
 
---)clust
+)clust
